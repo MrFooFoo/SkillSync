@@ -1,0 +1,15 @@
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\bin\Debug\net8.0\SkillSync.UserService.Application.deps.json
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\bin\Debug\net8.0\SkillSync.UserService.Application.dll
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\bin\Debug\net8.0\SkillSync.UserService.Application.pdb
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\bin\Debug\net8.0\SkillSync.UserService.Domain.dll
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\bin\Debug\net8.0\SkillSync.UserService.Domain.pdb
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSync.UserService.Application.csproj.AssemblyReference.cache
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSync.UserService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSync.UserService.Application.AssemblyInfoInputs.cache
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSync.UserService.Application.AssemblyInfo.cs
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSync.UserService.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSyn.C8D99325.Up2Date
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSync.UserService.Application.dll
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\refint\SkillSync.UserService.Application.dll
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSync.UserService.Application.pdb
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\ref\SkillSync.UserService.Application.dll

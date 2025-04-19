@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bkRNfuAtDXgQONpowhpcrUcaQetirzGrN4AoVSUK1lc=",
+  "Source": "SkillSync.UserService",
+  "BasePath": "_content/SkillSync.UserService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

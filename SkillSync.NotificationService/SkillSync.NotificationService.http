@@ -1,0 +1,6 @@
+@SkillSync.NotificationService_HostAddress = http://localhost:5160
+
+GET {{SkillSync.NotificationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

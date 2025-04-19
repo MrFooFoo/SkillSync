@@ -1,0 +1,9 @@
+C:\Users\HP\SkillSync\SkillSync.NotificationService\obj\Debug\net8.0\SkillSync.NotificationService.csproj.AssemblyReference.cache
+C:\Users\HP\SkillSync\SkillSync.NotificationService\obj\Debug\net8.0\SkillSync.NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\SkillSync\SkillSync.NotificationService\obj\Debug\net8.0\SkillSync.NotificationService.AssemblyInfoInputs.cache
+C:\Users\HP\SkillSync\SkillSync.NotificationService\obj\Debug\net8.0\SkillSync.NotificationService.AssemblyInfo.cs
+C:\Users\HP\SkillSync\SkillSync.NotificationService\obj\Debug\net8.0\SkillSync.NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\HP\SkillSync\SkillSync.NotificationService\obj\Debug\net8.0\SkillSync.NotificationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\SkillSync\SkillSync.NotificationService\obj\Debug\net8.0\SkillSync.NotificationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\SkillSync\SkillSync.NotificationService\obj\Debug\net8.0\SkillSync.NotificationService.RazorAssemblyInfo.cache
+C:\Users\HP\SkillSync\SkillSync.NotificationService\obj\Debug\net8.0\SkillSync.NotificationService.RazorAssemblyInfo.cs

@@ -1,0 +1,6 @@
+@SkillSync.UserService_HostAddress = http://localhost:5035
+
+GET {{SkillSync.UserService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
