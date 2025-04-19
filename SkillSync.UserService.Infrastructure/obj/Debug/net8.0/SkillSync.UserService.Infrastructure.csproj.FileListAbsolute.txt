@@ -17,3 +17,4 @@ C:\Users\HP\SkillSync\SkillSync.UserService.Infrastructure\obj\Debug\net8.0\refi
 C:\Users\HP\SkillSync\SkillSync.UserService.Infrastructure\obj\Debug\net8.0\SkillSync.UserService.Infrastructure.pdb
 C:\Users\HP\SkillSync\SkillSync.UserService.Infrastructure\obj\Debug\net8.0\SkillSync.UserService.Infrastructure.genruntimeconfig.cache
 C:\Users\HP\SkillSync\SkillSync.UserService.Infrastructure\obj\Debug\net8.0\ref\SkillSync.UserService.Infrastructure.dll
+C:\Users\HP\SkillSync\SkillSync.UserService.Infrastructure\obj\Debug\net8.0\SkillSync.UserService.Infrastructure.sourcelink.json

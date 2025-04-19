@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillSync.UserService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+000d2531e8673335f8a07a026dbe84cc41536a1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillSync.UserService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillSync.UserService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

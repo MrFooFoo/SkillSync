@@ -6,4 +6,5 @@ public class UserRegisteredEvent
     public Guid UserId {get; set;}
 
     public DateTime CreatedAt {get; set;}
+    public string FullName { get; set; }
 }

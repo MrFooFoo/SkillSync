@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "bkRNfuAtDXgQONpowhpcrUcaQetirzGrN4AoVSUK1lc=",
+  "Hash": "4/8Dnm7cnymxe+9a4FZ8Iqazy+2lpZqNWIGfHXebjpc=",
   "Source": "SkillSync.UserService",
   "BasePath": "_content/SkillSync.UserService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

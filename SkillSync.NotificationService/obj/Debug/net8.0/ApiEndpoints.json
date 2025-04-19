@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "SkillSync.NotificationService.Controllers.NotificationController",
+    "Method": "Get",
+    "RelativePath": "api/Notification",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

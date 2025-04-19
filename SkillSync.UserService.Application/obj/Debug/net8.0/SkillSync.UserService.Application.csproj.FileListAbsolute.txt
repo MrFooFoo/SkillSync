@@ -13,3 +13,4 @@ C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSy
 C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\refint\SkillSync.UserService.Application.dll
 C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSync.UserService.Application.pdb
 C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\ref\SkillSync.UserService.Application.dll
+C:\Users\HP\SkillSync\SkillSync.UserService.Application\obj\Debug\net8.0\SkillSync.UserService.Application.sourcelink.json

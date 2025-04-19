@@ -38,6 +38,7 @@ namespace SkillSync.UserService.Infrastructure.Services
             await _kafkaProducer.PublishAsync("user-registered", new UserRegisteredEvent 
             {
                 Email = user.Email,
+                FullName = user.Username,
                 UserId = user.Id,
                 CreatedAt = DateTime.Now
             });

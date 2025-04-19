@@ -1,5 +1,7 @@
 using SkillSync.NotificationService.Kafka.Consumer;
 using Microsoft.Extensions.Hosting;
+using SkillSync.NotificationService.Persistance;
+using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -8,6 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHostedService<UserRegisteredConsumer>();
+builder.Services.AddDbContext<NotificationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 

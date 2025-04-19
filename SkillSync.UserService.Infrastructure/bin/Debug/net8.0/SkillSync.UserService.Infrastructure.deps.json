@@ -1072,7 +1072,7 @@
         },
         "runtime": {
           "SkillSync.UserService.Application.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1080,7 +1080,7 @@
       "SkillSync.UserService.Domain/1.0.0": {
         "runtime": {
           "SkillSync.UserService.Domain.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

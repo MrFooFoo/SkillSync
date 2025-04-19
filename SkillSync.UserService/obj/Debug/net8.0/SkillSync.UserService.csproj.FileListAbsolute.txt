@@ -169,3 +169,8 @@ C:\Users\HP\SkillSync\SkillSync.UserService\obj\Debug\net8.0\refint\SkillSync.Us
 C:\Users\HP\SkillSync\SkillSync.UserService\obj\Debug\net8.0\SkillSync.UserService.pdb
 C:\Users\HP\SkillSync\SkillSync.UserService\obj\Debug\net8.0\SkillSync.UserService.genruntimeconfig.cache
 C:\Users\HP\SkillSync\SkillSync.UserService\obj\Debug\net8.0\ref\SkillSync.UserService.dll
+C:\Users\HP\SkillSync\SkillSync.UserService\obj\Debug\net8.0\SkillSync.UserService.sourcelink.json
+C:\Users\HP\SkillSync\SkillSync.UserService\bin\Debug\net8.0\SkillSync.UserService.staticwebassets.endpoints.json
+C:\Users\HP\SkillSync\SkillSync.UserService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HP\SkillSync\SkillSync.UserService\obj\Debug\net8.0\staticwebassets\msbuild.SkillSync.UserService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\SkillSync\SkillSync.UserService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
